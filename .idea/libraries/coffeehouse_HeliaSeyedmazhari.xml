@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="coffeehouse-HeliaSeyedmazhari">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/becker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/BoardClass.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/JavaImageSound.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/Board.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/hsa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

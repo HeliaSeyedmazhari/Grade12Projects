@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sierpinski2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Gr. 12 Comp Sci/Sierpinski/dist/Sierpinski.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

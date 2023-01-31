@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/ABC/ABC.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/ABC/ABC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/Activity3/Activity3.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/Activity3/Activity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/BasketballStatistics/BasketballStatistics.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/BasketballStatistics/BasketballStatistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls/BouncingBalls.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls/BouncingBalls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_2/BouncingBalls_2.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_2/BouncingBalls_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_3/BouncingBalls_3.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_3/BouncingBalls_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_3_1/BouncingBalls_3_1.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/BouncingBalls_3_1/BouncingBalls_3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/CaesarCipher/CaesarCipher.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/CaesarCipher/CaesarCipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/CelsiusConverter/CelsiusConverter.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/CelsiusConverter/CelsiusConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/CelsiusConverterProject/CelsiusConverterProject.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/CelsiusConverterProject/CelsiusConverterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/FirstDrawingApp/FirstDrawingApp.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/FirstDrawingApp/FirstDrawingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/FractalTree/FractalTree.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/FractalTree/FractalTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/GameOfLifeEngine/GameOfLifeEngine.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/GameOfLifeEngine/GameOfLifeEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/GameOfLifeGUI/GameOfLifeGUI.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/GameOfLifeGUI/GameOfLifeGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grade 12 Comp Sci.iml" filepath="$PROJECT_DIR$/.idea/Grade 12 Comp Sci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/HeliaTrees/HeliaTrees.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/HeliaTrees/HeliaTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/HeliaTrees/HeliaTrees1.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/HeliaTrees/HeliaTrees1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication29/JavaApplication29.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication29/JavaApplication29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication36/JavaApplication36.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication36/JavaApplication36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication43/JavaApplication43.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication43/JavaApplication43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication44/JavaApplication44.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication44/JavaApplication44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication52/JavaApplication52.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication52/JavaApplication52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication53/JavaApplication53.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/JavaApplication53/JavaApplication53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/LastNameQuiz/LastNameQuiz.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/LastNameQuiz/LastNameQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/LinkedListTest/LinkedListTest.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/LinkedListTest/LinkedListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/ModFib/ModFib.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/ModFib/ModFib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/ModFib/ModFib1.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/ModFib/ModFib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/NicholasLovesTobogganing/NicholasLovesTobogganing.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/NicholasLovesTobogganing/NicholasLovesTobogganing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/OOPAssignments/OOPAssignments.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/OOPAssignments/OOPAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/OliviaProblem/OliviaProblem.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/OliviaProblem/OliviaProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/PeerTutorMangament/PeerTutorMangament.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/PeerTutorMangament/PeerTutorMangament.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/RockPaperScissors/RockPaperScissors.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/RockPaperScissors/RockPaperScissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/SearchSort/SearchSort.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/SearchSort/SearchSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/ShapesOOP/ShapesOOP.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/ShapesOOP/ShapesOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/Sierpinski/Sierpinski.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/Recursion/src/Sierpinski/Sierpinski.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/Sierpinski/Sierpinski1.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/Sierpinski/Sierpinski1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/SmileWithSimilies/SmileWithSimilies.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/SmileWithSimilies/SmileWithSimilies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/SortingAssignment/SortingAssignment.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/SortingAssignment/SortingAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TextFile/TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TextFileAssignement/TextFileAssignement.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TextFileAssignement/TextFileAssignement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TextFilePractice/TextFilePractice.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TextFilePractice/TextFilePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TextFilePro/TextFilePro.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TextFilePro/TextFilePro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TowersOfHanoi/TowersOfHanoi.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TowersOfHanoi/TowersOfHanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/TransistorGain/TransistorGain.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/TransistorGain/TransistorGain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/coffeehouse-HeliaSeyedmazhari.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/coffeehouse-HeliaSeyedmazhari/coffeehouse-HeliaSeyedmazhari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/linkedlistassignment-fold-corps/linkedlistassignment-fold-corps.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/linkedlistassignment-fold-corps/linkedlistassignment-fold-corps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/login-system-HeliaSeyedmazhari/login-system-HeliaSeyedmazhari.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/login-system-HeliaSeyedmazhari/login-system-HeliaSeyedmazhari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/ohno/ohno.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/ohno/ohno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/ooptestcard-HeliaSeyedmazhari/ooptestcard-HeliaSeyedmazhari.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/ooptestcard-HeliaSeyedmazhari/ooptestcard-HeliaSeyedmazhari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/prime/prime.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/prime/prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/testFinal/testFinal.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/testFinal/testFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gr. 12 Comp Sci/unit-3-test-HeliaSeyedmazhari/unit-3-test-HeliaSeyedmazhari.iml" filepath="$PROJECT_DIR$/Gr. 12 Comp Sci/unit-3-test-HeliaSeyedmazhari/unit-3-test-HeliaSeyedmazhari.iml" />
+    </modules>
+  </component>
+</project>
